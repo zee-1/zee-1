@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Zaid!
 
 Welcome to my GitHub profile! I am a passionate **Data Scientist** and **Machine Learning Engineer** with expertise in **Business Intelligence (BI)**, **Large Language Models (LLMs)**, and **AutoML**. I love solving challenging problems, building scalable systems, and turning data into actionable insights.
 
 ## 🚀 About Me
 - 🧠 Specialties: BI, LLMs, AutoML, NLP, and Data Engineering
 - 🌱 Currently exploring: Generative AI and Explainable AI (XAI)
-- 🛠 Tools: Python, TensorFlow, PyTorch, H2O.ai, Power BI, and more
+- 🛠 Tools: Python, TensorFlow, PyTorch, Azure, HuggingFace, SK-Learn, openai, langchain
 - 📫 Connect with me: [Your Email] | [Your LinkedIn] | [Your Twitter]
 
 ---
